@@ -15,7 +15,7 @@
 ### Difference between docker and VM
 > Usually an operating system is built with two main layers `Kernal` and `Application layer`.This being the main difference between Docker and VM because as mentioned above VM is a virtual machine running an operating system consisting of both kernel and application layer but Docker only run the Application layer.
 
-![Docker flow](relative/dockerflow.jpeg?raw=true "Dockerflow")
+![Docker flow](/dockerflow.jpeg?raw=true "Dockerflow")
 
 #Basic Docker commands
 ` docker pull [image_name]`
