@@ -102,6 +102,8 @@
 #### Difference between dockerfile and docker-compose.yml
 > The main difference is that, dockerfile is a set of instructions that the container should follow and docker-compose.yml consists instructions to spin or tear down multiple containers at a single shot .
 
+![Dockerfile example](/Dockerfile_example.png?raw=true "Dockerfile example")
+
 #### Persisting data with volumes
 > Usually data that the containers store or contain is just stored in the virtual filesystem which gets erased everytime the containers stops or restarts. To avoid this issue we have three ways in which we can mount the memory volumes.
 
